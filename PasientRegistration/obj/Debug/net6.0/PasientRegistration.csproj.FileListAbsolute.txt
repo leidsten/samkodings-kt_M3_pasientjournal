@@ -1,0 +1,15 @@
+C:\Users\linn\OneDrive\Dokumenter\GitHub Repos\PasientRegistration\PasientRegistration\bin\Debug\net6.0\PasientRegistration.exe
+C:\Users\linn\OneDrive\Dokumenter\GitHub Repos\PasientRegistration\PasientRegistration\bin\Debug\net6.0\PasientRegistration.deps.json
+C:\Users\linn\OneDrive\Dokumenter\GitHub Repos\PasientRegistration\PasientRegistration\bin\Debug\net6.0\PasientRegistration.runtimeconfig.json
+C:\Users\linn\OneDrive\Dokumenter\GitHub Repos\PasientRegistration\PasientRegistration\bin\Debug\net6.0\PasientRegistration.dll
+C:\Users\linn\OneDrive\Dokumenter\GitHub Repos\PasientRegistration\PasientRegistration\bin\Debug\net6.0\PasientRegistration.pdb
+C:\Users\linn\OneDrive\Dokumenter\GitHub Repos\PasientRegistration\PasientRegistration\obj\Debug\net6.0\PasientRegistration.csproj.AssemblyReference.cache
+C:\Users\linn\OneDrive\Dokumenter\GitHub Repos\PasientRegistration\PasientRegistration\obj\Debug\net6.0\PasientRegistration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linn\OneDrive\Dokumenter\GitHub Repos\PasientRegistration\PasientRegistration\obj\Debug\net6.0\PasientRegistration.AssemblyInfoInputs.cache
+C:\Users\linn\OneDrive\Dokumenter\GitHub Repos\PasientRegistration\PasientRegistration\obj\Debug\net6.0\PasientRegistration.AssemblyInfo.cs
+C:\Users\linn\OneDrive\Dokumenter\GitHub Repos\PasientRegistration\PasientRegistration\obj\Debug\net6.0\PasientRegistration.csproj.CoreCompileInputs.cache
+C:\Users\linn\OneDrive\Dokumenter\GitHub Repos\PasientRegistration\PasientRegistration\obj\Debug\net6.0\PasientRegistration.dll
+C:\Users\linn\OneDrive\Dokumenter\GitHub Repos\PasientRegistration\PasientRegistration\obj\Debug\net6.0\refint\PasientRegistration.dll
+C:\Users\linn\OneDrive\Dokumenter\GitHub Repos\PasientRegistration\PasientRegistration\obj\Debug\net6.0\PasientRegistration.pdb
+C:\Users\linn\OneDrive\Dokumenter\GitHub Repos\PasientRegistration\PasientRegistration\obj\Debug\net6.0\PasientRegistration.genruntimeconfig.cache
+C:\Users\linn\OneDrive\Dokumenter\GitHub Repos\PasientRegistration\PasientRegistration\obj\Debug\net6.0\ref\PasientRegistration.dll
